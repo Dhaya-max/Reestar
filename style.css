@@ -1,0 +1,130 @@
+.header{
+  background-color: black;
+}
+.re{
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.main{
+  display:flex;
+  justify-content: center;
+  align-items: center; 
+}
+.menu{
+  color: blanchedalmond;
+  display: inline;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  
+}
+.art{
+  display: flex;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top:20px;
+  height: 300px;
+}
+.sec1{
+  border: 2px solid;
+  height: 600px;
+  
+}
+.sec2{
+  border: 2px solid;
+  height: 600px;
+  margin-left: 5px;
+}
+.sec3{
+  border: 2px solid;
+  height: 600px;
+    margin-left: 5px;
+}
+.sec4{
+  border: 2px solid;
+  height: 600px;
+   margin-left: 5px;
+}
+.img1{
+  width: 300px;
+}
+.img2{
+  width: 300px;
+  height: 450px;
+}
+.img3{
+  width: 300px;
+  height: 450px;
+}
+.img4{
+  width: 300px;
+}
+.btn{
+  margin-left: 35%;
+  margin-top:8%;
+  height: 35px;
+  width: 90px;
+  background-color: black;
+  color: white;
+  border-radius: 8px;
+}
+.art{
+  height: 600px;
+}
+.foot{
+  height: 300px;
+  background-color: black;
+  color: white;
+  margin-top: 20px;
+  
+  margin-left: 200px;
+  margin-right: 200px;
+  
+}
+.con{
+  padding-left: 680px;
+}
+.in2{
+  
+  height: 30px;
+  margin-top: 5px;
+}
+.in1{
+  height: 30px;
+}
+.in3{
+   margin-top: 5px;
+  height: 30px;
+}
+.btn1{
+  width: 500px;
+  height: 35px;
+  margin-top: 10px;
+  background-color: yellow;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 500px;
+  border-radius: 15px;
+  
+}
+.sp1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.sp2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.sp3{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
